@@ -1,0 +1,16 @@
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\obj\Debug\WCFServer.csproj.AssemblyReference.cache
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\obj\Debug\WCFServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\UTENTE\Desktop\progetto tecniche sviluppo software\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\obj\Debug\WCFServer.csproj.AssemblyReference.cache
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\obj\Debug\WCFServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\UTENTE\Desktop\progettoTSF\WCFServer\obj\Debug\WCFServer.pdb
